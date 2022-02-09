@@ -25,3 +25,19 @@ This dataset collects informationfrom 100k medical appointments in Brazil and is
 ● How Schoolarship affected to attendance?
 
 ● How Alcoholism affected to attendance?
+
+## Conclusions
+● SMS not afftected the attendance
+
+● Female had attendace than Male
+
+● The patient that had not registered ni schoolarship had attendance more than non registered
+
+● We Found that the bigger rate of patient dont have alcholism
+
+● We Found that the most attendance is in May
+
+● the strongly attendance age from 0 to 10
+
+## Limitations
+the difference between scheduled day and appointment day at the percentage of showing up of patients for their appointment.
