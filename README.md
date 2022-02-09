@@ -17,7 +17,7 @@ This dataset collects informationfrom 100k medical appointments in Brazil and is
 
 ● Be careful about the encodingof the last column: it says ‘No’ ifthe patient showed up to theirappointment, and ‘Yes’ if they did not show up.
 
-##Question(s) for Analysis
+## Question(s) for Analysis
 ● Men or Woman had attended?
 
 ● Who are attendance that had received SMS or not?
