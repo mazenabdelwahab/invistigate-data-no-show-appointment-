@@ -3,10 +3,10 @@
 ### Introduction
 ### Data Wrangling
 ### Exploratory Data Analysis
-###Conclusions
+### Conclusions
 
-##Introduction
-###Dataset Description
+## Introduction
+### Dataset Description
 This dataset collects informationfrom 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number ofcharacteristics about the patient are included in each row.
 
 ● ‘ScheduledDay’ tells us onwhat day the patient set up theirappointment.
